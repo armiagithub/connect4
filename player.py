@@ -5,4 +5,4 @@ class Player:
         self.CheckerColor = CheckerColor
         pass
     
-    
+     

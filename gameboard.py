@@ -24,7 +24,7 @@ class Gameboard:
     
     # We will need to know the color, row, and column
     def addNewPiece(self, Color, Row, Column):
-
+ 
         try:
             Placed = False
             Row *= -1
@@ -44,6 +44,7 @@ class Gameboard:
             else:
                 if self.Gameboard[Row+1][Column] ==  "⚫":
                     print("You must choose another slot.")
+
                 else:
                     self.Gameboard[Row][Column] = Color
                     Placed = True
