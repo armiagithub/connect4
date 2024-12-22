@@ -186,5 +186,4 @@ def checkHorizontal(self, Color):
    ```
 
 ---
-
- 
+by Armia 
