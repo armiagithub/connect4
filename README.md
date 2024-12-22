@@ -43,7 +43,7 @@ The logic needs to take into account the following:
 
    ## Finished project
 
-### What Does the Program Do?
+### The game board
 The program will display a **grid-like board** that shows:
 - **Available slots** ⚫ and
 - **Slots occupied by pieces** of either the red 🔴 or yellow 🟡 player.
@@ -61,7 +61,7 @@ The program will display a **grid-like board** that shows:
 
 ## Code and How It Works
 
-### Game Structure
+### Code Structure
 The codebase is divided into three key components:
 1. **`main.py`**: The entry point for running the game and managing the game loop.
 2. **`gameboard.py`**: Contains the game board's structure and logic.
