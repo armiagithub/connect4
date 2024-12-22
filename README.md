@@ -17,7 +17,6 @@ Prerequisites for this project include familiarity with Python, Git/GitHub, and 
 + Command Line and File Navigation
 
 **Project Brainstorming**
-What does your program do?
   + The program will display grid-like board, that shows available slots and slots already occupied by pieces of their red or yellow player 
 How will it work in a terminal?
  + Basic call to the main.py should run the game
