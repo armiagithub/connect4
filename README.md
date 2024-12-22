@@ -1,3 +1,4 @@
+## Intro
 **Introduction**
 This project focuses on creating a terminal-based implementation of the classic game Connect 4 using Python. 
 The goal is to develop an interactive program where players can input their moves directly in the terminal, enhancing user engagement with real-time feedback. 
@@ -163,7 +164,7 @@ def checkHorizontal(self, Color):
 
 ---
 
-## Future Enhancements
+## Future Enhancements to make
 1. **Single Player Mode**: Implement AI for a single-player experience.
 2. **Node-Based Search Optimization**: Optimize the "Connect Four" check using a graph-based approach for better performance on larger boards.
 3. **Enhanced Graphics**: Use libraries like `curses` or `pygame` for a more polished display.
