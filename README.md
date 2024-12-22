@@ -11,7 +11,7 @@ Prerequisites for this project include familiarity with Python, Git/GitHub, and 
 + Use the command line and file navigation
 + Write a technical blog post on the project
 
-**Prerequisites:**
+**Prerequisites:** 
 + Python
 + Git/GitHub
 + Command Line and File Navigation
