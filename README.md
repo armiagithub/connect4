@@ -41,7 +41,7 @@ The logic needs to take into account the following:
  + After every new piece added we should check for connections.
  + We should refresh the screen with every addition as well; otherwise, the terminal would get cluttered.
 
-   ## Project Brainstorming
+   ## Finished project
 
 ### What Does the Program Do?
 The program will display a **grid-like board** that shows:
